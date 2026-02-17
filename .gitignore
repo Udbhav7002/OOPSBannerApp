@@ -1,0 +1,11 @@
+# Compiled Class File
+*.class
+
+# VS Code
+.vscode/
+*.jar
+*.log
+
+# Build Folders
+bin/
+build/
