@@ -1,11 +1,11 @@
 /**
- * OOPSBannerApp UC3 - OOPS Banner using String.join()
+ * OOPSBannerApp UC2 - OOPS Banner using String.join()
  *
  * This program prints OOPS banner using String.join()
  * for better memory efficiency and cleaner code.
  *
  * @author Udbhav
- * @version 3.0
+ * @version 2.0
  */
 
 
